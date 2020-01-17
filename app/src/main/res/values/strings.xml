@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Digit Recognizer</string>
+    <string name="des">After draw the number click the Classify button to identify the number and Click the Reset Button to clear the view!</string>
+    <string name="classify">Classify</string>
+    <string name="reset">Reset</string>
+    <string name="prediction">Prediction Number : </string>
+</resources>
